@@ -12,7 +12,7 @@ public class A9Palindrome {
 //		{
 //			charStack.add(c);
 //		}
-//		for(int i=0;i<str.toCharArray().length;i++)
+//		for(int is=0;i<str.toCharArray().length;i++)
 //		{
 //			rev=rev+charStack.pop();
 //		}
